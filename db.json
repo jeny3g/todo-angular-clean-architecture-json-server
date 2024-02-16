@@ -2,22 +2,22 @@
   "tasks": [
     {
       "id": 1,
-      "title": "Comprar leite",
+      "task": "Comprar leite",
       "completed": false
     },
     {
       "id": 2,
-      "title": "Responder e-mails",
+      "task": "Responder e-mails",
       "completed": false
     },
     {
       "id": 3,
-      "title": "Marcar consulta médica",
+      "task": "Marcar consulta médica",
       "completed": true
     },
     {
       "id": 4,
-      "title": "Pagar conta de luz",
+      "task": "Pagar conta de luz",
       "completed": false
     }
   ]
